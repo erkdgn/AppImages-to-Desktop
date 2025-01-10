@@ -2,7 +2,9 @@
 
 Linux sistemlerde AppImage uygulamalarını kolayca yönetmenizi sağlayan bir araç.
 
-![AppImage Yükleyici](screenshots/main_window.png)
+![AppImage Yükleyici Ana Pencere](screenshots/main_window.png)
+
+![AppImage Yükleyici Düzenleme Penceresi](screenshots/main_window2.png)
 
 ## Özellikler
 
