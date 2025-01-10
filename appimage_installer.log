@@ -1,1 +1,1173 @@
 2025-01-10 15:24:01,189 - INFO - Uygulama yüklendi: cursor
+2025-01-10 15:27:13,409 - INFO - Uygulama kaldırıldı: cursor
+2025-01-10 15:41:48,979 - INFO - Uygulama yüklendi: cursor
+2025-01-10 16:22:24,543 - ERROR - DuckDuckGo API hatası: 0, message='Attempt to decode JSON with unexpected mimetype: application/x-javascript', url=URL('https://api.duckduckgo.com/?q=cursor+icon&format=json&pretty=1')
+2025-01-10 16:22:24,543 - ERROR - SimpleIcons API hatası: Cannot connect to host api.simpleicons.org:443 ssl:default [İsim ya da servis bilinmiyor]
+2025-01-10 16:22:25,440 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:25,440 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:25,654 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:25,654 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:25,735 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:25,735 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:25,843 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:25,843 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:25,843 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:25,938 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:25,938 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:26,482 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:27,117 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:27,913 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:28,552 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:37,610 - ERROR - DuckDuckGo API hatası: 0, message='Attempt to decode JSON with unexpected mimetype: application/x-javascript', url=URL('https://api.duckduckgo.com/?q=test+icon&format=json&pretty=1')
+2025-01-10 16:22:38,428 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:38,428 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:38,504 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:38,504 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:38,564 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:38,564 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:38,647 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:38,647 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:38,712 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:38,712 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:38,836 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:39,335 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:39,970 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:40,618 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:41,291 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:42,729 - ERROR - SimpleIcons API hatası: Cannot connect to host api.simpleicons.org:443 ssl:default [İsim ya da servis bilinmiyor]
+2025-01-10 16:22:54,670 - ERROR - SimpleIcons API hatası: Cannot connect to host api.simpleicons.org:443 ssl:default [İsim ya da servis bilinmiyor]
+2025-01-10 16:22:55,188 - ERROR - DuckDuckGo API hatası: 0, message='Attempt to decode JSON with unexpected mimetype: application/x-javascript', url=URL('https://api.duckduckgo.com/?q=black+icon&format=json&pretty=1')
+2025-01-10 16:22:55,880 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:55,880 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:55,983 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:55,983 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:56,498 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:56,498 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:56,798 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:56,798 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:56,904 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:22:56,904 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:57,122 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:57,767 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:58,481 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:22:59,127 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:23:00,081 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:34,239 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://api.duckduckgo.com/?q=black+icon&format=json&pretty=1
+2025-01-10 16:30:34,240 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=black
+2025-01-10 16:30:34,240 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/black.svg
+2025-01-10 16:30:34,240 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:30:34,942 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:30:34,942 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:30:35,046 - INFO - DuckDuckGo yanıt kodu: 200
+2025-01-10 16:30:35,046 - ERROR - DuckDuckGo API hatası: 0, message='Attempt to decode JSON with unexpected mimetype: application/x-javascript', url=URL('https://api.duckduckgo.com/?q=black+icon&format=json&pretty=1')
+2025-01-10 16:30:35,046 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:30:35,046 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:30:35,046 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:30:35,149 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:30:35,261 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:30:35,261 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:30:36,079 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:30:36,079 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:30:36,080 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:30:36,223 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:36,223 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:36,286 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:30:36,286 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:30:36,286 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:36,286 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:30:36,287 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:30:36,287 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:36,287 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:36,288 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:30:36,307 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:36,307 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:36,800 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:30:36,800 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:30:36,800 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:30:36,801 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:36,801 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:36,999 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:30:36,999 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:30:36,999 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:30:37,000 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:37,000 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:30:37,000 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:37,000 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:37,000 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:30:37,011 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:37,011 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:37,101 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:30:37,101 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:30:37,101 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:37,102 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:37,490 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:37,490 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:30:37,491 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:30:37,495 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:37,495 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:37,844 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:37,844 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:30:37,845 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:30:37,848 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:37,848 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:38,201 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:38,201 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:30:38,203 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:38,203 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:38,203 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 0
+2025-01-10 16:30:45,497 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://api.duckduckgo.com/?q=cursor+icon&format=json&pretty=1
+2025-01-10 16:30:45,497 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=cursor
+2025-01-10 16:30:45,497 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg
+2025-01-10 16:30:45,497 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:30:46,215 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:30:46,215 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:30:46,215 - INFO - DuckDuckGo yanıt kodu: 200
+2025-01-10 16:30:46,215 - ERROR - DuckDuckGo API hatası: 0, message='Attempt to decode JSON with unexpected mimetype: application/x-javascript', url=URL('https://api.duckduckgo.com/?q=cursor+icon&format=json&pretty=1')
+2025-01-10 16:30:46,215 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:30:46,216 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:30:46,216 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_up.svg
+2025-01-10 16:30:46,420 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:30:46,624 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:30:46,624 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:30:47,039 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:30:47,039 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/10654537?v=4
+2025-01-10 16:30:47,039 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:30:47,040 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:47,040 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:47,141 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:30:47,142 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/137748916?v=4
+2025-01-10 16:30:47,142 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/10654537?v=4
+2025-01-10 16:30:47,143 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:47,143 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:47,245 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:30:47,245 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/52627267?v=4
+2025-01-10 16:30:47,246 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/137748916?v=4
+2025-01-10 16:30:47,246 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:47,246 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:47,342 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:47,342 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_down.svg
+2025-01-10 16:30:47,342 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_up.svg
+2025-01-10 16:30:47,345 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:30:47,345 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/6391776?v=4
+2025-01-10 16:30:47,350 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:47,350 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:47,350 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/52627267?v=4
+2025-01-10 16:30:47,351 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:47,351 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:47,447 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:30:47,448 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/6391776?v=4
+2025-01-10 16:30:47,448 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:30:47,448 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:47,934 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:47,934 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_right.svg
+2025-01-10 16:30:47,934 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_down.svg
+2025-01-10 16:30:47,938 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:47,938 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:48,569 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:48,570 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_top_right.svg
+2025-01-10 16:30:48,570 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_right.svg
+2025-01-10 16:30:48,574 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:48,574 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:49,175 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:49,175 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_left.svg
+2025-01-10 16:30:49,176 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_top_right.svg
+2025-01-10 16:30:49,182 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:49,182 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:50,209 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:30:50,209 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_left.svg
+2025-01-10 16:30:50,218 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:30:50,218 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:30:50,218 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 0
+2025-01-10 16:30:52,929 - INFO - Uygulama güncellendi: cursor -> cursor
+2025-01-10 16:32:27,388 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js?q=cursor+icon&o=json&f=,,,,,&ia=images
+2025-01-10 16:32:27,388 - INFO - Iconify API'sine istek gönderiliyor: https://api.iconify.design/search?query=cursor&limit=5
+2025-01-10 16:32:27,388 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=cursor
+2025-01-10 16:32:27,389 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg
+2025-01-10 16:32:27,389 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:32:27,915 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:32:27,915 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:32:28,018 - INFO - Iconify yanıt kodu: 200
+2025-01-10 16:32:28,018 - ERROR - Iconify API hatası: string indices must be integers
+2025-01-10 16:32:28,018 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:32:28,018 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:32:28,098 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:32:28,098 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:32:28,098 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_right.svg
+2025-01-10 16:32:28,208 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:32:28,306 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:32:28,306 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:32:28,623 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:32:28,623 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/10654537?v=4
+2025-01-10 16:32:28,624 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:32:28,730 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:28,730 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_up.svg
+2025-01-10 16:32:28,732 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:32:28,732 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/137748916?v=4
+2025-01-10 16:32:28,768 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:28,768 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:28,768 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_right.svg
+2025-01-10 16:32:28,782 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:28,783 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:28,783 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/10654537?v=4
+2025-01-10 16:32:28,783 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:28,783 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:28,832 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:32:28,832 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/52627267?v=4
+2025-01-10 16:32:28,832 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/137748916?v=4
+2025-01-10 16:32:28,833 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:28,833 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:29,030 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:32:29,030 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/6391776?v=4
+2025-01-10 16:32:29,031 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/52627267?v=4
+2025-01-10 16:32:29,031 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:29,031 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:29,141 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:32:29,141 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/6391776?v=4
+2025-01-10 16:32:29,142 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:29,142 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:29,233 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:29,233 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_down.svg
+2025-01-10 16:32:29,233 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_up.svg
+2025-01-10 16:32:29,240 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:29,240 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:29,651 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:29,651 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_top_right.svg
+2025-01-10 16:32:29,651 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_down.svg
+2025-01-10 16:32:29,655 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:29,655 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:30,051 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:30,051 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_left.svg
+2025-01-10 16:32:30,051 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_top_right.svg
+2025-01-10 16:32:30,059 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:30,059 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:30,433 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:30,433 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_left.svg
+2025-01-10 16:32:30,438 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:30,438 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:30,438 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 0
+2025-01-10 16:32:38,943 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js?q=black+icon&o=json&f=,,,,,&ia=images
+2025-01-10 16:32:38,943 - INFO - Iconify API'sine istek gönderiliyor: https://api.iconify.design/search?query=black&limit=5
+2025-01-10 16:32:38,944 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=black
+2025-01-10 16:32:38,944 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/black.svg
+2025-01-10 16:32:38,944 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:32:39,248 - INFO - Iconify yanıt kodu: 200
+2025-01-10 16:32:39,249 - ERROR - Iconify API hatası: string indices must be integers
+2025-01-10 16:32:39,255 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:32:39,255 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:32:39,363 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:32:39,363 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:32:39,584 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:32:39,584 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:32:39,584 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:32:39,883 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:32:40,088 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:32:40,088 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:32:40,606 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:32:40,606 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:32:40,607 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:32:40,607 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:40,607 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:32:40,608 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:40,608 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:40,608 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:32:40,619 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:40,619 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:40,806 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:32:40,806 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:32:40,806 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:32:40,807 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:40,807 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:41,120 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:32:41,120 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:32:41,120 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:32:41,121 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:41,121 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:32:41,122 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:41,122 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:41,122 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:32:41,131 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:41,131 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:41,222 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:32:41,222 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:32:41,222 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:32:41,223 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:41,223 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:41,316 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:32:41,316 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:32:41,317 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:32:41,317 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:41,558 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:41,558 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Beeline_icon_pack.svg
+2025-01-10 16:32:41,559 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:32:41,564 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:41,564 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:42,243 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:42,243 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:32:42,243 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Beeline_icon_pack.svg
+2025-01-10 16:32:42,246 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:42,246 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:42,607 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:32:42,608 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:32:42,612 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:32:42,612 - ERROR - İkon ekleme hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:32:42,613 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 0
+2025-01-10 16:32:46,460 - INFO - Uygulama güncellendi: cursor -> cursor
+2025-01-10 16:34:20,544 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js
+2025-01-10 16:34:20,544 - INFO - Iconify API'sine istek gönderiliyor: https://api.iconify.design/search?query=black&limit=5
+2025-01-10 16:34:20,544 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=black
+2025-01-10 16:34:20,545 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/black.svg
+2025-01-10 16:34:20,545 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:34:21,468 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:34:21,468 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:34:21,468 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:34:21,469 - INFO - Iconify yanıt kodu: 200
+2025-01-10 16:34:21,469 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:34:21,469 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:34:21,469 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:34:21,773 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:34:21,774 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:34:21,774 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:34:21,774 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:34:22,494 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:34:22,495 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:34:22,495 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:34:22,648 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:34:22,893 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:34:22,894 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:34:22,894 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:34:22,894 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:34:22,894 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:34:22,904 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:34:22,905 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:34:22,905 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:34:22,905 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:34:23,500 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:34:23,500 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:34:23,500 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:34:23,501 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:34:23,571 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:34:23,571 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:34:23,571 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:34:23,572 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:34:23,580 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:34:23,580 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:34:23,580 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:34:23,587 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:34:23,588 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:34:23,646 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:34:23,646 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:34:23,646 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:34:23,940 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:34:23,940 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:34:23,940 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:34:23,943 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:34:23,943 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:34:24,325 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:34:24,325 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:34:24,326 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:34:24,328 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:34:24,328 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:34:24,703 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:34:24,703 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:34:24,709 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:34:24,709 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:34:24,709 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 0
+2025-01-10 16:37:20,263 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js
+2025-01-10 16:37:20,263 - INFO - Flaticon API'sine istek gönderiliyor: https://api.flaticon.com/v3/search/icons/free
+2025-01-10 16:37:20,263 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=black
+2025-01-10 16:37:20,264 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/black.svg
+2025-01-10 16:37:20,264 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:37:20,777 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:37:20,777 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:37:20,978 - INFO - Flaticon yanıt kodu: 401
+2025-01-10 16:37:20,978 - WARNING - Flaticon API yanıt hatası: 401
+2025-01-10 16:37:20,978 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:37:20,978 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:37:21,178 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:37:21,178 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:37:21,178 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:37:21,179 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:37:21,383 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:37:21,384 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:37:21,703 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:37:21,703 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:37:21,704 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:37:21,823 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:37:21,823 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:37:21,889 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:21,889 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:37:21,889 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:21,996 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:37:21,996 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:37:21,996 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:37:21,997 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:22,088 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:37:22,089 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:37:22,089 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:22,089 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:37:22,089 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:37:22,090 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:22,090 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:37:22,099 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:22,100 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:22,185 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:37:22,185 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:37:22,185 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:22,723 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:22,723 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:37:22,723 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:37:22,731 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:22,732 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:23,315 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:23,315 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:37:23,316 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:37:23,318 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:23,319 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:23,929 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:23,929 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:37:23,929 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:37:23,933 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:23,933 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:24,543 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:24,544 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:37:24,546 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:24,546 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:24,546 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 0
+2025-01-10 16:37:33,675 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js
+2025-01-10 16:37:33,675 - INFO - Flaticon API'sine istek gönderiliyor: https://api.flaticon.com/v3/search/icons/free
+2025-01-10 16:37:33,676 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=chrome
+2025-01-10 16:37:33,676 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chrome.svg
+2025-01-10 16:37:33,676 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:37:34,084 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:37:34,084 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:37:34,097 - INFO - Flaticon yanıt kodu: 401
+2025-01-10 16:37:34,097 - WARNING - Flaticon API yanıt hatası: 401
+2025-01-10 16:37:34,185 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:37:34,185 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:37:34,392 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:37:34,498 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:37:34,498 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1778935?v=4
+2025-01-10 16:37:34,499 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:37:34,499 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:37:34,499 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(September_2014).svg
+2025-01-10 16:37:34,801 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:37:34,801 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/38249919?v=4
+2025-01-10 16:37:34,802 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1778935?v=4
+2025-01-10 16:37:34,802 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:35,214 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:37:35,214 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/15868458?v=4
+2025-01-10 16:37:35,214 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:35,214 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(March_2011).svg
+2025-01-10 16:37:35,214 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/38249919?v=4
+2025-01-10 16:37:35,215 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:35,215 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(September_2014).svg
+2025-01-10 16:37:35,228 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:35,228 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:35,492 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:37:35,492 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/23287111?v=4
+2025-01-10 16:37:35,493 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/15868458?v=4
+2025-01-10 16:37:35,494 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:35,717 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:37:35,717 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/6906516?v=4
+2025-01-10 16:37:35,717 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/23287111?v=4
+2025-01-10 16:37:35,718 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:35,788 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:37:35,788 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/6906516?v=4
+2025-01-10 16:37:35,789 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:37:35,876 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:35,876 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(February_2022).svg
+2025-01-10 16:37:35,877 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(March_2011).svg
+2025-01-10 16:37:35,885 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:35,885 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:36,336 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:36,336 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_and_wordmark_(2011).svg
+2025-01-10 16:37:36,336 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(February_2022).svg
+2025-01-10 16:37:36,340 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:36,341 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:36,917 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:36,917 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_Web_Store_icon_2022.svg
+2025-01-10 16:37:36,917 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_and_wordmark_(2011).svg
+2025-01-10 16:37:36,923 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:36,923 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:37,484 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:37:37,485 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_Web_Store_icon_2022.svg
+2025-01-10 16:37:37,492 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:37:37,492 - ERROR - Liste öğesi oluşturma hatası: name 'QListWidgetItem' is not defined
+2025-01-10 16:37:37,492 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 0
+2025-01-10 16:39:14,308 - INFO - Flaticon'a istek gönderiliyor: https://www.flaticon.com/free-icons/chrome
+2025-01-10 16:39:14,308 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js
+2025-01-10 16:39:14,309 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=chrome
+2025-01-10 16:39:14,309 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chrome.svg
+2025-01-10 16:39:14,309 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:39:14,928 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:39:14,928 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:39:15,128 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:39:15,128 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:39:15,128 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:39:15,230 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:39:15,230 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1778935?v=4
+2025-01-10 16:39:15,230 - INFO - Flaticon yanıt kodu: 403
+2025-01-10 16:39:15,230 - WARNING - Flaticon yanıt hatası: 403
+2025-01-10 16:39:15,236 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:39:15,236 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:39:15,236 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(September_2014).svg
+2025-01-10 16:39:15,490 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:39:15,490 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/38249919?v=4
+2025-01-10 16:39:15,490 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1778935?v=4
+2025-01-10 16:39:15,620 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:39:15,620 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/15868458?v=4
+2025-01-10 16:39:15,647 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:15,647 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/38249919?v=4
+2025-01-10 16:39:15,648 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:15,857 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:15,857 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(March_2011).svg
+2025-01-10 16:39:15,858 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(September_2014).svg
+2025-01-10 16:39:15,873 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:39:15,873 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/23287111?v=4
+2025-01-10 16:39:15,882 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:39:15,890 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:15,890 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/15868458?v=4
+2025-01-10 16:39:15,891 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:15,950 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:39:15,950 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/6906516?v=4
+2025-01-10 16:39:15,950 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/23287111?v=4
+2025-01-10 16:39:15,951 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:16,026 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:39:16,027 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/6906516?v=4
+2025-01-10 16:39:16,028 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:16,214 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:16,214 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(February_2022).svg
+2025-01-10 16:39:16,214 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(March_2011).svg
+2025-01-10 16:39:16,227 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_1.png
+2025-01-10 16:39:16,228 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:16,566 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:16,566 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_and_wordmark_(2011).svg
+2025-01-10 16:39:16,566 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_(February_2022).svg
+2025-01-10 16:39:16,572 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_2.png
+2025-01-10 16:39:16,572 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:16,910 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:16,910 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_Web_Store_icon_2022.svg
+2025-01-10 16:39:16,910 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_icon_and_wordmark_(2011).svg
+2025-01-10 16:39:16,916 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_3.png
+2025-01-10 16:39:16,916 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:17,260 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:17,261 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Google_Chrome_Web_Store_icon_2022.svg
+2025-01-10 16:39:17,266 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_4.png
+2025-01-10 16:39:17,267 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:17,267 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 5
+2025-01-10 16:39:23,331 - INFO - Flaticon'a istek gönderiliyor: https://www.flaticon.com/free-icons/black
+2025-01-10 16:39:23,331 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js
+2025-01-10 16:39:23,331 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=black
+2025-01-10 16:39:23,332 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/black.svg
+2025-01-10 16:39:23,332 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:39:23,740 - INFO - Flaticon yanıt kodu: 403
+2025-01-10 16:39:23,741 - WARNING - Flaticon yanıt hatası: 403
+2025-01-10 16:39:23,752 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:39:23,752 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:39:23,840 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:39:23,840 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:39:24,127 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:39:24,127 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:39:24,127 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:39:24,150 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:39:24,340 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:39:24,341 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:39:24,847 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:39:24,847 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:39:24,847 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:39:24,854 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:25,058 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:39:25,058 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:39:25,058 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:39:25,059 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:25,371 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:25,371 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:39:25,371 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:39:25,377 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:39:25,377 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:25,505 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:39:25,505 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:39:25,506 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:39:25,507 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:25,572 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:39:25,572 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:39:25,573 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:39:25,573 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:25,657 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:39:25,658 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:39:25,659 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:39:25,736 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:25,737 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:39:25,737 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:39:25,744 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_1.png
+2025-01-10 16:39:25,744 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:26,102 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:26,103 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:39:26,103 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:39:26,105 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_2.png
+2025-01-10 16:39:26,105 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:26,462 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:26,463 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:39:26,463 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:39:26,470 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_3.png
+2025-01-10 16:39:26,470 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:26,820 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:39:26,820 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:39:26,825 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_4.png
+2025-01-10 16:39:26,825 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:39:26,826 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 5
+2025-01-10 16:40:46,354 - INFO - Flaticon'a istek gönderiliyor: https://www.flaticon.com/free-icons/black
+2025-01-10 16:40:46,355 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js
+2025-01-10 16:40:46,355 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=black
+2025-01-10 16:40:46,355 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/black.svg
+2025-01-10 16:40:46,355 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:40:47,177 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:40:47,183 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:40:47,184 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:40:47,300 - INFO - GitHub sonuç sayısı: 30
+2025-01-10 16:40:47,301 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:40:47,301 - INFO - Flaticon yanıt kodu: 403
+2025-01-10 16:40:47,301 - WARNING - Flaticon yanıt hatası: 403
+2025-01-10 16:40:47,301 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:40:47,301 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:40:47,597 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:40:47,597 - INFO - Wikimedia sonuç sayısı: 5
+2025-01-10 16:40:47,597 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:40:48,609 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:40:48,610 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:40:48,610 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/50630501?v=4
+2025-01-10 16:40:48,619 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:40:48,911 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:40:48,911 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:40:48,911 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/16827203?v=4
+2025-01-10 16:40:48,912 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:40:49,421 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:40:49,421 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:40:49,421 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/83878298?v=4
+2025-01-10 16:40:49,421 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:40:49,421 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:40:49,422 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:40:49,422 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Black_pie_icon_pack.svg
+2025-01-10 16:40:49,426 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:40:49,426 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:40:49,489 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:40:49,489 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:40:49,489 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/55156514?v=4
+2025-01-10 16:40:49,490 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:40:49,571 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:40:49,572 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/20172349?v=4
+2025-01-10 16:40:49,573 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:40:49,770 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:40:49,770 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:40:49,770 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Arc_icon_pack.svg
+2025-01-10 16:40:49,774 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_1.png
+2025-01-10 16:40:49,775 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:40:51,126 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:40:51,126 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:40:51,127 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Blackline_icon_pack.svg
+2025-01-10 16:40:51,131 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_2.png
+2025-01-10 16:40:51,132 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:40:51,664 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:40:51,664 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:40:51,665 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Apex_icon_pack.svg
+2025-01-10 16:40:51,669 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_3.png
+2025-01-10 16:40:51,670 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:40:52,996 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:40:52,997 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arcticons_black_Aura_icon_pack.svg
+2025-01-10 16:40:53,000 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_4.png
+2025-01-10 16:40:53,000 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:40:53,000 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 5
+2025-01-10 16:41:05,909 - INFO - Flaticon'a istek gönderiliyor: https://www.flaticon.com/free-icons/test
+2025-01-10 16:41:05,909 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js
+2025-01-10 16:41:05,910 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=test&per_page=20
+2025-01-10 16:41:05,910 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/test.svg
+2025-01-10 16:41:05,910 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:41:06,516 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:41:06,516 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:41:06,517 - INFO - Flaticon yanıt kodu: 403
+2025-01-10 16:41:06,517 - WARNING - Flaticon yanıt hatası: 403
+2025-01-10 16:41:06,517 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:41:06,517 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:41:06,737 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:41:06,737 - INFO - Wikimedia sonuç sayısı: 20
+2025-01-10 16:41:06,737 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Yellow_test_tube_icon.svg
+2025-01-10 16:41:07,029 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:41:07,033 - INFO - GitHub sonuç sayısı: 20
+2025-01-10 16:41:07,033 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/8897583?v=4
+2025-01-10 16:41:07,345 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:07,345 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/20157705?v=4
+2025-01-10 16:41:07,346 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/8897583?v=4
+2025-01-10 16:41:07,460 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:07,460 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/60945302?v=4
+2025-01-10 16:41:07,510 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:07,510 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/20157705?v=4
+2025-01-10 16:41:07,510 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:07,545 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:07,545 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/11684617?v=4
+2025-01-10 16:41:07,545 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/60945302?v=4
+2025-01-10 16:41:07,546 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:07,622 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:07,623 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/12507332?v=4
+2025-01-10 16:41:07,623 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/11684617?v=4
+2025-01-10 16:41:07,623 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:07,643 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:07,643 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Noun_Project_test_icon_2404407_(1).svg
+2025-01-10 16:41:07,644 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Yellow_test_tube_icon.svg
+2025-01-10 16:41:07,659 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:41:07,660 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:07,701 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:07,701 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/3284117?v=4
+2025-01-10 16:41:07,702 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/12507332?v=4
+2025-01-10 16:41:07,703 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:07,782 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:07,783 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/11670606?v=4
+2025-01-10 16:41:07,783 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/3284117?v=4
+2025-01-10 16:41:07,783 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:07,923 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:07,923 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/76509367?v=4
+2025-01-10 16:41:07,924 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/11670606?v=4
+2025-01-10 16:41:07,924 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:08,001 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:08,001 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1725583?v=4
+2025-01-10 16:41:08,001 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/76509367?v=4
+2025-01-10 16:41:08,002 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:08,021 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:08,021 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Test_Tubes_Flat_Icon_Vector.svg
+2025-01-10 16:41:08,021 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Noun_Project_test_icon_2404407_(1).svg
+2025-01-10 16:41:08,024 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_1.png
+2025-01-10 16:41:08,024 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:08,173 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:08,173 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/13393021?v=4
+2025-01-10 16:41:08,173 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1725583?v=4
+2025-01-10 16:41:08,174 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:08,321 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:08,321 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/3170529?v=4
+2025-01-10 16:41:08,321 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/13393021?v=4
+2025-01-10 16:41:08,322 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:08,414 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:08,414 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Geolocated_covid-19_test_timeline_icon_(COVID19.GOV.PH).svg
+2025-01-10 16:41:08,415 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Test_Tubes_Flat_Icon_Vector.svg
+2025-01-10 16:41:08,422 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_2.png
+2025-01-10 16:41:08,422 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:08,566 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:08,566 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/16628445?v=4
+2025-01-10 16:41:08,566 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/3170529?v=4
+2025-01-10 16:41:08,567 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:08,811 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:08,811 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Test_tube_icon.svg
+2025-01-10 16:41:08,811 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Geolocated_covid-19_test_timeline_icon_(COVID19.GOV.PH).svg
+2025-01-10 16:41:08,818 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_3.png
+2025-01-10 16:41:08,818 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:09,042 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:09,042 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1582987?v=4
+2025-01-10 16:41:09,042 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/16628445?v=4
+2025-01-10 16:41:09,043 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:09,172 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:09,172 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Test_Tube_-_The_Noun_Project.svg
+2025-01-10 16:41:09,172 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Test_tube_icon.svg
+2025-01-10 16:41:09,180 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_4.png
+2025-01-10 16:41:09,180 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:09,415 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:09,415 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/10258541?v=4
+2025-01-10 16:41:09,416 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1582987?v=4
+2025-01-10 16:41:09,416 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:09,492 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:09,492 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1049138?v=4
+2025-01-10 16:41:09,492 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/10258541?v=4
+2025-01-10 16:41:09,493 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:09,820 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:09,820 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Test_Template_Info-Icon_-_Version_(2).svg
+2025-01-10 16:41:09,820 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Test_Tube_-_The_Noun_Project.svg
+2025-01-10 16:41:09,822 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:09,822 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/18260135?v=4
+2025-01-10 16:41:09,823 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_5.png
+2025-01-10 16:41:09,823 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:09,823 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1049138?v=4
+2025-01-10 16:41:09,823 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:10,314 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:10,314 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_test-tube-1.svg
+2025-01-10 16:41:10,314 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Test_Template_Info-Icon_-_Version_(2).svg
+2025-01-10 16:41:10,323 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_6.png
+2025-01-10 16:41:10,324 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:10,483 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:10,483 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/49996085?v=4
+2025-01-10 16:41:10,483 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/18260135?v=4
+2025-01-10 16:41:10,484 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:10,575 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:10,575 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/82371?v=4
+2025-01-10 16:41:10,575 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/49996085?v=4
+2025-01-10 16:41:10,576 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:10,939 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:10,939 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_test-tube-4.svg
+2025-01-10 16:41:10,939 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_test-tube-1.svg
+2025-01-10 16:41:10,943 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_7.png
+2025-01-10 16:41:10,943 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:11,350 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:11,350 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/106463443?v=4
+2025-01-10 16:41:11,350 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/82371?v=4
+2025-01-10 16:41:11,351 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:11,558 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:11,558 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_test-tube-3.svg
+2025-01-10 16:41:11,558 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_test-tube-4.svg
+2025-01-10 16:41:11,562 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_8.png
+2025-01-10 16:41:11,562 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:11,612 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:11,612 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1095328?v=4
+2025-01-10 16:41:11,612 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/106463443?v=4
+2025-01-10 16:41:11,613 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:11,888 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:11,888 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1095328?v=4
+2025-01-10 16:41:11,888 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:12,182 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:12,182 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_test-tube-2.svg
+2025-01-10 16:41:12,183 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_test-tube-3.svg
+2025-01-10 16:41:12,186 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_9.png
+2025-01-10 16:41:12,186 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:12,801 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:12,801 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_forked-test-tube-2.svg
+2025-01-10 16:41:12,801 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_test-tube-2.svg
+2025-01-10 16:41:12,806 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_10.png
+2025-01-10 16:41:12,807 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:13,612 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:13,613 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_forked-test-tube-3.svg
+2025-01-10 16:41:13,613 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_forked-test-tube-2.svg
+2025-01-10 16:41:13,618 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_11.png
+2025-01-10 16:41:13,619 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:14,215 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:14,215 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_forked-test-tube-1.svg
+2025-01-10 16:41:14,215 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_forked-test-tube-3.svg
+2025-01-10 16:41:14,221 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_12.png
+2025-01-10 16:41:14,222 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:14,842 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:14,842 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Flasks_or_Lab_Test_Tubes_Flat_Icon_Vector.svg
+2025-01-10 16:41:14,843 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_forked-test-tube-1.svg
+2025-01-10 16:41:14,847 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_13.png
+2025-01-10 16:41:14,847 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:15,630 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:15,630 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_side-arm-test-tube-2.svg
+2025-01-10 16:41:15,630 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Flasks_or_Lab_Test_Tubes_Flat_Icon_Vector.svg
+2025-01-10 16:41:15,639 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_14.png
+2025-01-10 16:41:15,640 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:16,553 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:16,553 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_side-arm-test-tube-1.svg
+2025-01-10 16:41:16,554 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_side-arm-test-tube-2.svg
+2025-01-10 16:41:16,559 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_15.png
+2025-01-10 16:41:16,560 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:17,169 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:17,170 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Kawaii_test_tube_empty_clipart.svg
+2025-01-10 16:41:17,170 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:202208_side-arm-test-tube-1.svg
+2025-01-10 16:41:17,174 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_16.png
+2025-01-10 16:41:17,175 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:18,397 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:18,397 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Ben_test_tube.svg
+2025-01-10 16:41:18,398 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Kawaii_test_tube_empty_clipart.svg
+2025-01-10 16:41:18,406 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_17.png
+2025-01-10 16:41:18,407 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:19,527 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:19,527 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Kawaii_test_tube_full_clip_art.svg
+2025-01-10 16:41:19,527 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Ben_test_tube.svg
+2025-01-10 16:41:19,533 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_18.png
+2025-01-10 16:41:19,533 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:20,441 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:20,441 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Kawaii_test_tube_full_clip_art.svg
+2025-01-10 16:41:20,452 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_19.png
+2025-01-10 16:41:20,453 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:20,453 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 20
+2025-01-10 16:41:24,743 - INFO - Flaticon'a istek gönderiliyor: https://www.flaticon.com/free-icons/cursor+ai
+2025-01-10 16:41:24,743 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js
+2025-01-10 16:41:24,743 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=cursor ai&per_page=20
+2025-01-10 16:41:24,744 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursorai.svg
+2025-01-10 16:41:24,744 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:41:25,430 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:41:25,430 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:41:25,430 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:41:25,430 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:41:25,430 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:41:25,555 - INFO - GitHub sonuç sayısı: 20
+2025-01-10 16:41:25,555 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:41:25,759 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:41:25,759 - INFO - Wikimedia sonuç sayısı: 1
+2025-01-10 16:41:25,759 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Circle-icons-cursor.svg
+2025-01-10 16:41:25,881 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:25,881 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1206493?v=4
+2025-01-10 16:41:25,882 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:41:25,882 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:26,072 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:26,073 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/108202?v=4
+2025-01-10 16:41:26,073 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1206493?v=4
+2025-01-10 16:41:26,073 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:26,476 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:26,476 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/83995869?v=4
+2025-01-10 16:41:26,476 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/108202?v=4
+2025-01-10 16:41:26,477 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:26,804 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:26,804 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/3755031?v=4
+2025-01-10 16:41:26,805 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/83995869?v=4
+2025-01-10 16:41:26,805 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:26,987 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:26,987 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Circle-icons-cursor.svg
+2025-01-10 16:41:26,992 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:41:26,993 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:27,197 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:27,197 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/671923?v=4
+2025-01-10 16:41:27,198 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/3755031?v=4
+2025-01-10 16:41:27,198 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:27,302 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:27,302 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/53093446?v=4
+2025-01-10 16:41:27,302 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/671923?v=4
+2025-01-10 16:41:27,303 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:27,592 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:27,592 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:41:27,592 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/53093446?v=4
+2025-01-10 16:41:27,593 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:27,695 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:27,695 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/13533512?v=4
+2025-01-10 16:41:27,695 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:41:27,696 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:27,964 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:27,964 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/167638923?v=4
+2025-01-10 16:41:27,965 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/13533512?v=4
+2025-01-10 16:41:27,965 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:28,276 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:28,276 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/2892484?v=4
+2025-01-10 16:41:28,277 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/167638923?v=4
+2025-01-10 16:41:28,277 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:28,884 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:28,885 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/143108111?v=4
+2025-01-10 16:41:28,885 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/2892484?v=4
+2025-01-10 16:41:28,886 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:29,136 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:29,137 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/36452456?v=4
+2025-01-10 16:41:29,137 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/143108111?v=4
+2025-01-10 16:41:29,138 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:29,475 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:29,476 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/5847884?v=4
+2025-01-10 16:41:29,476 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/36452456?v=4
+2025-01-10 16:41:29,477 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:29,678 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:29,679 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/150966511?v=4
+2025-01-10 16:41:29,679 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/5847884?v=4
+2025-01-10 16:41:29,680 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:29,880 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:29,880 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1707661?v=4
+2025-01-10 16:41:29,880 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/150966511?v=4
+2025-01-10 16:41:29,881 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:30,010 - INFO - Flaticon yanıt kodu: 403
+2025-01-10 16:41:30,010 - WARNING - Flaticon yanıt hatası: 403
+2025-01-10 16:41:30,124 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:30,124 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/9512444?v=4
+2025-01-10 16:41:30,125 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1707661?v=4
+2025-01-10 16:41:30,125 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:30,254 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:30,254 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1189211?v=4
+2025-01-10 16:41:30,255 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/9512444?v=4
+2025-01-10 16:41:30,256 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:30,474 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:30,474 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/119112484?v=4
+2025-01-10 16:41:30,475 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1189211?v=4
+2025-01-10 16:41:30,475 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:30,729 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:30,729 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/105228140?v=4
+2025-01-10 16:41:30,730 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/119112484?v=4
+2025-01-10 16:41:30,737 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:30,834 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:30,834 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/105228140?v=4
+2025-01-10 16:41:30,835 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:30,836 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 1
+2025-01-10 16:41:34,266 - INFO - Flaticon'a istek gönderiliyor: https://www.flaticon.com/free-icons/cursor
+2025-01-10 16:41:34,267 - INFO - DuckDuckGo API'sine istek gönderiliyor: https://duckduckgo.com/i.js
+2025-01-10 16:41:34,267 - INFO - GitHub API'sine istek gönderiliyor: https://api.github.com/search/repositories?q=cursor&per_page=20
+2025-01-10 16:41:34,267 - INFO - SimpleIcons'a istek gönderiliyor: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg
+2025-01-10 16:41:34,267 - INFO - Wikimedia API'sine istek gönderiliyor: https://commons.wikimedia.org/w/api.php
+2025-01-10 16:41:34,878 - INFO - DuckDuckGo yanıt kodu: 403
+2025-01-10 16:41:34,878 - WARNING - DuckDuckGo API yanıt hatası: 403
+2025-01-10 16:41:34,984 - INFO - GitHub yanıt kodu: 200
+2025-01-10 16:41:34,985 - INFO - SimpleIcons yanıt kodu: 404
+2025-01-10 16:41:34,985 - WARNING - SimpleIcons'dan ikon bulunamadı
+2025-01-10 16:41:34,985 - INFO - Flaticon yanıt kodu: 403
+2025-01-10 16:41:34,985 - WARNING - Flaticon yanıt hatası: 403
+2025-01-10 16:41:35,083 - INFO - GitHub sonuç sayısı: 20
+2025-01-10 16:41:35,083 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:41:35,418 - INFO - Wikimedia yanıt kodu: 200
+2025-01-10 16:41:35,418 - INFO - Wikimedia sonuç sayısı: 20
+2025-01-10 16:41:35,418 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_right.svg
+2025-01-10 16:41:35,567 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:35,567 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/10654537?v=4
+2025-01-10 16:41:35,567 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/126759922?v=4
+2025-01-10 16:41:35,568 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:35,666 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:35,666 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/137748916?v=4
+2025-01-10 16:41:35,666 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/10654537?v=4
+2025-01-10 16:41:35,667 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:35,772 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:35,773 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/52627267?v=4
+2025-01-10 16:41:35,773 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/137748916?v=4
+2025-01-10 16:41:35,781 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:35,854 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:35,854 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/6391776?v=4
+2025-01-10 16:41:35,855 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/52627267?v=4
+2025-01-10 16:41:35,855 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:35,948 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:35,948 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1206493?v=4
+2025-01-10 16:41:35,949 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/6391776?v=4
+2025-01-10 16:41:35,949 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:36,023 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:36,023 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/351783?v=4
+2025-01-10 16:41:36,023 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1206493?v=4
+2025-01-10 16:41:36,023 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:36,149 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:36,149 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_up.svg
+2025-01-10 16:41:36,149 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_right.svg
+2025-01-10 16:41:36,153 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_0.png
+2025-01-10 16:41:36,154 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:36,209 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:36,209 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/50616060?v=4
+2025-01-10 16:41:36,209 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/351783?v=4
+2025-01-10 16:41:36,210 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:36,278 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:36,278 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/1016365?v=4
+2025-01-10 16:41:36,279 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/50616060?v=4
+2025-01-10 16:41:36,279 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:36,350 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:36,350 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/655158?v=4
+2025-01-10 16:41:36,350 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/1016365?v=4
+2025-01-10 16:41:36,351 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:36,478 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:36,478 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/5364385?v=4
+2025-01-10 16:41:36,479 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/655158?v=4
+2025-01-10 16:41:36,479 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:36,518 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:36,518 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_down.svg
+2025-01-10 16:41:36,519 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_up.svg
+2025-01-10 16:41:36,522 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_1.png
+2025-01-10 16:41:36,522 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:36,558 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:36,558 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/794999?v=4
+2025-01-10 16:41:36,558 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/5364385?v=4
+2025-01-10 16:41:36,559 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:36,868 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:36,869 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/567259?v=4
+2025-01-10 16:41:36,869 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/794999?v=4
+2025-01-10 16:41:36,870 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:36,897 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:36,898 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_left.svg
+2025-01-10 16:41:36,898 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_down.svg
+2025-01-10 16:41:36,901 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_2.png
+2025-01-10 16:41:36,901 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:37,059 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:37,059 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/33351166?v=4
+2025-01-10 16:41:37,059 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/567259?v=4
+2025-01-10 16:41:37,060 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:37,267 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:37,267 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_top_right.svg
+2025-01-10 16:41:37,267 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_left.svg
+2025-01-10 16:41:37,271 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:37,271 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/24286590?v=4
+2025-01-10 16:41:37,272 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_3.png
+2025-01-10 16:41:37,272 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:37,272 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/33351166?v=4
+2025-01-10 16:41:37,272 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:37,367 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:37,367 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/14979305?v=4
+2025-01-10 16:41:37,367 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/24286590?v=4
+2025-01-10 16:41:37,368 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:37,628 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:37,628 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/265785?v=4
+2025-01-10 16:41:37,628 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/14979305?v=4
+2025-01-10 16:41:37,629 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:37,650 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:37,650 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_top_left.svg
+2025-01-10 16:41:37,650 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_top_right.svg
+2025-01-10 16:41:37,655 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_4.png
+2025-01-10 16:41:37,655 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:37,922 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:37,922 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/98098715?v=4
+2025-01-10 16:41:37,922 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/265785?v=4
+2025-01-10 16:41:37,923 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:38,208 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:38,208 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/108202?v=4
+2025-01-10 16:41:38,208 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/98098715?v=4
+2025-01-10 16:41:38,209 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:38,396 - INFO - İkon başarıyla indirildi: GitHub - image/jpeg
+2025-01-10 16:41:38,396 - INFO - GitHub'dan ikon indiriliyor: https://avatars.githubusercontent.com/u/79156757?v=4
+2025-01-10 16:41:38,396 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/108202?v=4
+2025-01-10 16:41:38,397 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:38,485 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:38,485 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_bottom_left.svg
+2025-01-10 16:41:38,486 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_top_left.svg
+2025-01-10 16:41:38,490 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_5.png
+2025-01-10 16:41:38,490 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:38,671 - INFO - İkon başarıyla indirildi: GitHub - image/png
+2025-01-10 16:41:38,672 - INFO - İkon listeye ekleniyor: GitHub - https://avatars.githubusercontent.com/u/79156757?v=4
+2025-01-10 16:41:38,673 - ERROR - SVG dönüştürme hatası: not well-formed (invalid token): line 1, column 0
+2025-01-10 16:41:39,140 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:39,140 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_bottom_right.svg
+2025-01-10 16:41:39,140 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_bottom_left.svg
+2025-01-10 16:41:39,147 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_6.png
+2025-01-10 16:41:39,148 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:39,814 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:39,814 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor_Cargando.svg
+2025-01-10 16:41:39,814 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pixel_51_icon_cursor_click_bottom_right.svg
+2025-01-10 16:41:39,818 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_7.png
+2025-01-10 16:41:39,819 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:40,509 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:40,509 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor_(27114)_-_The_Noun_Project.svg
+2025-01-10 16:41:40,510 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor_Cargando.svg
+2025-01-10 16:41:40,523 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_8.png
+2025-01-10 16:41:40,524 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:41,145 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:41,145 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Pointing_hand_cursor_vector.svg
+2025-01-10 16:41:41,145 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor_(27114)_-_The_Noun_Project.svg
+2025-01-10 16:41:41,148 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_9.png
+2025-01-10 16:41:41,148 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:41,942 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:41,942 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-hand-wiki.svg
+2025-01-10 16:41:41,943 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Pointing_hand_cursor_vector.svg
+2025-01-10 16:41:41,947 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_10.png
+2025-01-10 16:41:41,947 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:42,867 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:42,867 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-draw.svg
+2025-01-10 16:41:42,868 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-hand-wiki.svg
+2025-01-10 16:41:42,875 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_11.png
+2025-01-10 16:41:42,876 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:43,785 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:43,785 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-resize.svg
+2025-01-10 16:41:43,786 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-draw.svg
+2025-01-10 16:41:43,790 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_12.png
+2025-01-10 16:41:43,791 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:44,626 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:44,626 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-reload.svg
+2025-01-10 16:41:44,627 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-resize.svg
+2025-01-10 16:41:44,630 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_13.png
+2025-01-10 16:41:44,630 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:45,398 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:45,399 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-hand.svg
+2025-01-10 16:41:45,399 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-reload.svg
+2025-01-10 16:41:45,402 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_14.png
+2025-01-10 16:41:45,402 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:46,235 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:46,236 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-hourglass.svg
+2025-01-10 16:41:46,236 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-hand.svg
+2025-01-10 16:41:46,241 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_15.png
+2025-01-10 16:41:46,241 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:46,969 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:46,970 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Arrow-cursor_-_Delapouite_-_game-icons.svg
+2025-01-10 16:41:46,970 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Cursor-design1-hourglass.svg
+2025-01-10 16:41:46,988 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_16.png
+2025-01-10 16:41:46,988 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:47,984 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:47,984 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Tabler-icons_cursor-off.svg
+2025-01-10 16:41:47,985 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Arrow-cursor_-_Delapouite_-_game-icons.svg
+2025-01-10 16:41:47,987 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_17.png
+2025-01-10 16:41:47,988 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:48,905 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:48,906 - INFO - Wikimedia'dan ikon indiriliyor: https://commons.wikimedia.org/wiki/Special:FilePath/File:Tabler-icons_cursor-text.svg
+2025-01-10 16:41:48,906 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Tabler-icons_cursor-off.svg
+2025-01-10 16:41:48,908 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_18.png
+2025-01-10 16:41:48,908 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:49,825 - INFO - İkon başarıyla indirildi: Wikimedia - image/svg+xml
+2025-01-10 16:41:49,825 - INFO - İkon listeye ekleniyor: Wikimedia - https://commons.wikimedia.org/wiki/Special:FilePath/File:Tabler-icons_cursor-text.svg
+2025-01-10 16:41:49,828 - INFO - SVG başarıyla PNG'ye dönüştürüldü: /home/erkan/.cache/appimage_installer/icons/temp_icon_19.png
+2025-01-10 16:41:49,828 - INFO - İkon başarıyla listeye eklendi: Wikimedia
+2025-01-10 16:41:49,828 - INFO - İkon arama tamamlandı. Bulunan ikon sayısı: 20
+2025-01-10 16:41:54,064 - INFO - Uygulama güncellendi: cursor -> cursor

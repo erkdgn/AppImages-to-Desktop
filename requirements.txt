@@ -1,2 +1,6 @@
 PyQt5==5.15.9
-python-magic==0.4.27 
+python-magic==0.4.27
+requests==2.31.0
+cairosvg==2.7.1
+aiohttp==3.9.1
+aiofiles==23.2.1 
