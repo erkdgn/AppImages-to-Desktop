@@ -5,7 +5,7 @@ Linux sistemlerde AppImage uygulamalarını kolayca yönetmenizi sağlayan bir a
 ## Özellikler
 
 - AppImage dosyalarını kolayca yükleme
-- Masaüstü kısayolu ve menü girişi otomatik oluşturma
+- Masaüstü kısayolu ve uygulama menüsüne otomatik ekleme
 - İkon otomatik indirme ve ayarlama
 - Yüklü uygulamaları düzenleme ve kaldırma
 - Sandbox modu desteği
@@ -26,8 +26,8 @@ Linux sistemlerde AppImage uygulamalarını kolayca yönetmenizi sağlayan bir a
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/KULLANICI_ADI/AppImagesToDesktop.git
-cd AppImagesToDesktop
+git clone https://github.com/erkdgn/AppImages-to-Desktop.git
+cd AppImages-to-Desktop
 ```
 
 2. Gerekli paketleri yükleyin:
@@ -45,7 +45,10 @@ python3 appimage_installer.py
 1. "AppImage Dosyası Seç" butonuna tıklayın
 2. Yüklemek istediğiniz .AppImage dosyasını seçin
 3. Sandbox modunu seçin (isteğe bağlı)
-4. Uygulama otomatik olarak yüklenecek ve masaüstünde kısayol oluşturulacak
+4. Uygulama otomatik olarak:
+   - AppImage dosyası ~/.local/share/appimages dizinine kopyalanır
+   - Masaüstünde kısayol oluşturulur
+   - Uygulama menüsüne eklenir (Activities menüsünde görünür)
 
 Yüklü uygulamaları düzenlemek için:
 1. Listeden bir uygulama seçin
